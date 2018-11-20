@@ -3,34 +3,6 @@ python练习
 #22:17
 #Wrtier : YangC
 #Test_1
-#语法糖练习测试（忽略）
-# def bold(func):
-#     def bold_in():
-#         res = func()
-#         return '<i>'+res+'</i>'
-#     return bold_in
-#
-# def italic(func):
-#     def italic_in():
-#         res = func()
-#         return '<b>' +res+'</b>'
-#     return italic_in
-#
-# @bold
-# def fun1():
-#     return 'helloHTML'
-# @italic
-# def fun2():
-#     return 'helloHTML'
-# @bold
-# @italic
-# def fun3():
-#     return 'helloHTML'
-#
-# print(fun1())
-# print(fun3())
-
-
 import time
 
 #Test_2
